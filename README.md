@@ -53,25 +53,25 @@ Customers :
         
    ![image](https://user-images.githubusercontent.com/75700746/206164977-3705c0fb-99eb-4eb5-8f04-96c077f19c90.png)
         
-   - Affecter les rôles aux utilisateurs
+  - Affecter les rôles aux utilisateurs
         
-    ![image](https://user-images.githubusercontent.com/75700746/206165181-27251051-3198-4f33-80c6-15b3732003c8.png)
+   ![image](https://user-images.githubusercontent.com/75700746/206165181-27251051-3198-4f33-80c6-15b3732003c8.png)
 
 
-    -Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token 
+  -Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token 
          
-      ![image](https://user-images.githubusercontent.com/75700746/206165354-bb107929-7f0c-4fd3-9129-a2af4f0d88c5.png)
+  ![image](https://user-images.githubusercontent.com/75700746/206165354-bb107929-7f0c-4fd3-9129-a2af4f0d88c5.png)
          
          
-      ![image](https://user-images.githubusercontent.com/75700746/206165416-4566a031-3a20-4085-b29a-2b3af76b558c.png)
+  ![image](https://user-images.githubusercontent.com/75700746/206165416-4566a031-3a20-4085-b29a-2b3af76b558c.png)
         
         
-     9. Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
+  9. Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
           
-     ![image](https://user-images.githubusercontent.com/75700746/206165540-79677e25-605c-4104-98d3-4d72e35adcbb.png)
+   ![image](https://user-images.githubusercontent.com/75700746/206165540-79677e25-605c-4104-98d3-4d72e35adcbb.png)
             
             
-     ![products](https://user-images.githubusercontent.com/75700746/206165669-4d2e8dd5-8891-4e4e-98f5-7bc9edce6d53.PNG)
+  ![products](https://user-images.githubusercontent.com/75700746/206165669-4d2e8dd5-8891-4e4e-98f5-7bc9edce6d53.PNG)
 
 
           
